@@ -5,38 +5,38 @@ class DB {
                 priority: '1',
                 id: 166096,
                 task: 'Adoption Campaign Rejected Phase',
-                createdby: 'akauk@cisco.com',
+                createdby: 'akauk@gmail.com',
                 status: 'Completed'
             },{
                 priority: '2',
                 id: 166088,
                 task: 'Analyze Feature Usage and Review with Customer',
-                createdby: 'srla@cisco.com',
+                createdby: 'srla@gmail.com',
                 status: 'Pending'
             },{
                 priority: '1',
                 id: 166377,
                 task: 'Test task INVALID ARGUMETS 7/20/2018.',
-                createdby: 'sx2@cisco.com',
+                createdby: 'sx2@gmail.com',
                 status: 'In-progress'
             }],
             "Note": [{
                 priority: '11',
                 id: 137746,
                 note: 'Note test 11',
-                createdby: 'reww@cisco.com',
+                createdby: 'reww@gmail.com',
                 status: 'Pending'
             },{
                 priority: '22',
                 id: 123088,
                 note: 'note test 22',
-                createdby: 'yann@cisco.com',
+                createdby: 'yann@gmail.com',
                 status: 'Pending'
             },{
                 priority: '33',
                 id: 198377,
                 note: 'Note test 33',
-                createdby: 'eekil@cisco.com',
+                createdby: 'eekil@gmail.com',
                 status: 'In-progress'
             }]
         }
