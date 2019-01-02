@@ -1,0 +1,8 @@
+
+  .header {
+    display:flex;
+    flex-direction:row;
+    background: lightgray;
+    justify-content: space-around;
+    padding: 10px;
+  }

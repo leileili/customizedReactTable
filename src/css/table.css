@@ -1,0 +1,18 @@
+li {
+    margin: 8px 0;
+}
+
+.add-new-row {
+  margin: 15px;
+  background: none;
+  border: 1px solid #039be5;
+  color: #039be5;
+  padding: 10px;
+}
+
+.search {
+  margin: 15px;
+  background: none;
+  color: #039be5;
+  padding: 10px;
+}
